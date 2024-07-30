@@ -17,7 +17,7 @@ This first phase is intended to provided the building blocks of the material you
 
 We'll be using the core principles of learning how to learn, for this we use the pomodoro technique, available as a free app called [pomofocus](https://pomofocus.io/), the principle is taking 25 minutes of intense work removing any distraction and 5 minutes off, this help you to stay focus and have some tracking metric system that we incorporate into our leaderboard. 
 
-### Data engineering
+### [Data Engineering](Fundamentals-of-data-engineering/)
 
 We will be using the book [Foundamental of data engineering](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/) by Joe Reis, is one of the best book to learn it and a course about data engineering.
 
