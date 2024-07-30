@@ -36,3 +36,14 @@ We need to understand our language for several reasons, first to work smoothly t
 ### Deep learning for coders
 
 [Practical Deep Learning for Coders - Practical Deep Learning (fast.ai)](https://course.fast.ai/) will help you to stay on track, building top performing ML models from the initial phase, we will spent time evaluating the lectures, practical exercise and projects. Since this is the big why are we here, everything else helps to this purpose.
+
+### Extra
+
+As you might suspect this is a wide field with a lot of different skill needed to be succesfull, there are some skills that you'll grab as you take the courses but without a specific material dedicated to work. Might suggestion if and when you have some extra time use some minutes a day to work and understand:
+
+- [Git](https://learngitbranching.js.org/)
+- [GitHub](https://skills.github.com/)
+- [Terraform](https://developer.hashicorp.com/terraform/tutorials)
+- [Docker](https://learn.microsoft.com/en-us/training/modules/intro-to-docker-containers/)
+
+All of them are free interactive enviroment fun to work on and easy to follow, which will give you an edge when you work on production software
