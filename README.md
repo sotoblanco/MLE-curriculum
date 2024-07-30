@@ -15,6 +15,8 @@ The curriculum is structured in three phases in which you will learn the skills 
 
 This first phase is intended to provided the building blocks of the material you need, and also the learning principles, data structures and algorithms is going at every phase, no matter how good you become, to get a job you need to pass the interviews, so it is required to have an intensive knowledge, python skills will also be a critical feature for all the curriculum, if you don’t understand python code is difficult to communicate with other developer.
 
+We'll be using the core principles of learning how to learn, for this we use the pomodoro technique, available as a free app called [pomofocus](https://pomofocus.io/), the principle is taking 25 minutes of intense work removing any distraction and 5 minutes off, this help you to stay focus and have some tracking metric system that we incorporate into our leaderboard. 
+
 ### Data engineering
 
 We will be using the book [Foundamental of data engineering](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/) by Joe Reis, is one of the best book to learn it and a course about data engineering.
