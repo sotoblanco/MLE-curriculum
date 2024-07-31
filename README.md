@@ -21,23 +21,23 @@ We'll be using the core principles of learning how to learn, for this we use the
 
 We will be using the book [Foundamental of data engineering](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/) by Joe Reis, is one of the best book to learn it and a course about data engineering.
 
-### SQL
+### [SQL](sql)
 
 I like the [SQL skill path of dataquest](https://www.dataquest.io/path/sql-skills/) since provides a hands-on experience in how to build this queries. We can also work with [CS50 SQL](https://cs50.harvard.edu/sql/2024/) to have a free resource at hand.
 
-### Data structures and algorithm
+### [Data structures and algorithm](dsa)
 
 We will use the [neetcode](https://neetcode.io/courses) course, and the [CS50](https://cs50.harvard.edu/college/2024/fall/syllabus/) only from week 2 to 5.
 
-### Python
+### [Python](python)
 
 We need to understand our language for several reasons, first to work smoothly through python features, being able to read and understand code, and also explain and share good quality of code. For this we will be using [CS50's Introduction to Programming with Python (harvard.edu)](https://cs50.harvard.edu/python/2022/), also python for coding interviews [Problems (neetcode.io)](https://neetcode.io/problems/python-sort-ascending) and [Fluent Python, 2nd Edition (oreilly.com)](https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/) 
 
-### Deep learning for coders
+### [Deep learning for coders](deep-learning-for-coders/)
 
 [Practical Deep Learning for Coders - Practical Deep Learning (fast.ai)](https://course.fast.ai/) will help you to stay on track, building top performing ML models from the initial phase, we will spent time evaluating the lectures, practical exercise and projects. Since this is the big why are we here, everything else helps to this purpose.
 
-### Extra
+### [Extra](extra)
 
 As you might suspect this is a wide field with a lot of different skill needed to be succesfull, there are some skills that you'll grab as you take the courses but without a specific material dedicated to work. Might suggestion if and when you have some extra time use some minutes a day to work and understand:
 
