@@ -3,10 +3,15 @@
 
 This is an optional section, and is the core principles of this curriculum. We use world-wide class resources to provide the best learning experience, and we also use the best practices to learn, to achieve the best results.
 
+## [Barabar Oakley](https://barbaraoakley.com/books/)
+
 ## [Andrew on how to build your AI career](https://wordpress.deeplearning.ai/wp-content/uploads/2022/10/eBook-How-to-Build-a-Career-in-AI.pdf)
+
+- Read papers and try to replicate the results, do it consistently every week. This might be hard to pull, but you can get started using the [paperswithcode](https://paperswithcode.com/) website, and try to replicate the results of the papers you read, and if you don't understand the paper, you can ask questions here: https://alphaxiv.org/
 
 
 ## [FastAI approach](https://www.fast.ai/posts/2016-10-08-teaching-philosophy.html)
+
 
 ## [Code in place (stanford)](https://web.stanford.edu/~cpiech/bio/papers/codeInPlace.pdf)
 
@@ -14,6 +19,8 @@ This is an optional section, and is the core principles of this curriculum. We u
 ## [Atomic habits]()
 
 ## Andrej Karpathy
+
+- Spent 10,000 hours of consistent work to become an expert
 
 ![alt text](image.png)
 
