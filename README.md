@@ -21,6 +21,13 @@ Overall, this principles apply to the design of the phases, the schedule and the
 - Data structures and algorithms
 - Deep learning for coders
 
+## First-phase suggested calender
+Let's evaluate this calender for the first phase
+
+| Week | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Data engineering | SQL | Data structures and algorithms | Deep learning for coders | Data structures and algorithms | Data engineering |  |
+
 This first phase is intended to provided the building blocks of the material you need, and also the learning principles, data structures and algorithms is going at every phase, no matter how good you become, to get a job you need to pass the interviews, so it is required to have an intensive knowledge, python skills will also be a critical feature for all the curriculum, if you don’t understand python code is difficult to communicate with other developer.
 
 We'll be using the core principles of learning how to learn, for this we use the pomodoro technique, available as a free app called [pomofocus](https://pomofocus.io/), the principle is taking 25 minutes of intense work removing any distraction and 5 minutes off, this help you to stay focus and have some tracking metric system that we incorporate into our leaderboard. 
@@ -81,13 +88,6 @@ We will be using the coursera specialization about machine learning in productio
 ### [Data structures and algorithm](dsa) & [Python](python)
 
 We will be using the same resources than the first phase, but taking more problems and more time to understand the underlying principles. This is a critical component since it will help you to build better understanding and also it will help you to prepare for interviews. 
-
-## First-phase calender
-Let's evaluate this calender for the first phase
-
-| Week | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Data engineering | SQL | Data structures and algorithms | Deep learning for coders | Data structures and algorithms | Data engineering |  |
 
 ## Second-phase calender
 Let's evaluate this calender for the second phase
