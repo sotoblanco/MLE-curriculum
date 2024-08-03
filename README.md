@@ -6,6 +6,9 @@ All content is taken from different resources that has proven results for a lot 
 
 The curriculum is structured in three phases in which you will learn the skills needed, we focus similar skill at the same time, the amount of hours to commit depends on your needs, but overall it required at least 2 hours at day.
 
+[Fill out this form to join](https://docs.google.com/forms/d/e/1FAIpQLSddHTaDlULOnwxztkJD0mEavfJ_eqFk11qfmrL3zRaWXBpPlQ/viewform)
+
+
 ## [First phase](first-phase)
 
 - Data enginnering & SQL
