@@ -5,10 +5,22 @@ This is an optional section, and is the core principles of this curriculum. We u
 
 ## [Barabar Oakley](https://barbaraoakley.com/books/)
 
+- **Pomodoro Technique**: 25 minutes of focused work, 5 minutes break. After 4 cycles, take a longer break.
+
+- **Diffuse mode**: When you are stuck, take a break, do something else (workout is great thing to do), and let your brain work in the background.
+
+- **Active study**: when learning is important to retrieve from your long term memory and test your-self to evaluate how well you are doing. 
+
 ## [Andrew on how to build your AI career](https://wordpress.deeplearning.ai/wp-content/uploads/2022/10/eBook-How-to-Build-a-Career-in-AI.pdf)
 
-- Read papers and try to replicate the results, do it consistently every week. This might be hard to pull, but you can get started using the [paperswithcode](https://paperswithcode.com/) website, and try to replicate the results of the papers you read, and if you don't understand the paper, you can ask questions here: https://alphaxiv.org/
+- **Read papers, try to replicate the results**: Weekly discussions on [paperswithcode](https://paperswithcode.com/) Also, to comment: https://alphaxiv.org/
 
+
+## [CS50 explained](https://www.youtube.com/watch?v=AUnpZXaHYLo)
+
+- **Understand the principle and then implement**
+
+- **Create mental hooks to understand the information**
 
 ## [FastAI approach](https://www.fast.ai/posts/2016-10-08-teaching-philosophy.html)
 
