@@ -6,6 +6,14 @@ All content is taken from different resources that has proven results for a lot 
 
 The curriculum is structured in three phases in which you will learn the skills needed, we focus similar skill at the same time, the amount of hours to commit depends on your needs, but overall it required at least 2 hours at day.
 
+## [Learning principles](learning-principles)
+
+There are many educators that provide amazing principles on how to learn in many different ways, here I compile a few principles that are the core principles of this curriculum, go to the link to find the most relevant information.
+
+Overall, this principles apply to the design of the phases, the schedule and the excercises.
+
+
+
 [Fill out this form to join](https://docs.google.com/forms/d/e/1FAIpQLSddHTaDlULOnwxztkJD0mEavfJ_eqFk11qfmrL3zRaWXBpPlQ/viewform)
 
 
@@ -15,6 +23,13 @@ The curriculum is structured in three phases in which you will learn the skills 
 - Python
 - Data structures and algorithms
 - Deep learning for coders
+
+## First-phase suggested calender
+Let's evaluate this calender for the first phase
+
+| Week | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Data engineering | SQL | Data structures and algorithms | Deep learning for coders | Data structures and algorithms | Data engineering |  |
 
 This first phase is intended to provided the building blocks of the material you need, and also the learning principles, data structures and algorithms is going at every phase, no matter how good you become, to get a job you need to pass the interviews, so it is required to have an intensive knowledge, python skills will also be a critical feature for all the curriculum, if you don’t understand python code is difficult to communicate with other developer.
 
@@ -76,13 +91,6 @@ We will be using the coursera specialization about machine learning in productio
 ### [Data structures and algorithm](dsa) & [Python](python)
 
 We will be using the same resources than the first phase, but taking more problems and more time to understand the underlying principles. This is a critical component since it will help you to build better understanding and also it will help you to prepare for interviews. 
-
-## First-phase calender
-Let's evaluate this calender for the first phase
-
-| Week | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Data engineering | SQL | Data structures and algorithms | Python | Deep learning for coders | Data engineering | Data structures and algorithms |
 
 ## Second-phase calender
 Let's evaluate this calender for the second phase
