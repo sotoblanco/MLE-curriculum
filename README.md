@@ -12,8 +12,6 @@ There are many educators that provide amazing principles on how to learn in many
 
 Overall, this principles apply to the design of the phases, the schedule and the excercises.
 
-
-
 [Fill out this form to join](https://docs.google.com/forms/d/e/1FAIpQLSddHTaDlULOnwxztkJD0mEavfJ_eqFk11qfmrL3zRaWXBpPlQ/viewform)
 
 
