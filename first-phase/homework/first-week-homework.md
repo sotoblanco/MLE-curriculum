@@ -57,3 +57,5 @@ Solve the two sum problem on leetcode
 ## Share in public
 
 Share your progress in public, you can use the hashtag #MLE_Curriculum and mention me in your post. You will get up to 7 points for sharing your progress in public, one for each post (use any social media: Linkedin, kaggle, etc)
+
+Fill the form to answer the [questions in this link](https://docs.google.com/forms/d/e/1FAIpQLSfKfndT0S1OvlUb03JjiAldQcGhxrbn-3tlODt4sXfHY6XsmQ/viewform)
