@@ -1,5 +1,7 @@
 # Machin Learning Enginneer Curriculum
 
+![alt text](images/image.png)
+
 The MLE curriculum is built thinking about the skills needed to get the initial interview, but also to pass and succeed in the job. We will analyze different companies from MANGA to start-up and even sports team, we will learn the requirements and how to match a job description and being confident in the skill set. 
 
 All content is taken from different resources that has proven results for a lot of people from landing dream job to succesfull entrepeneurs. 
