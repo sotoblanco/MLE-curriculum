@@ -57,6 +57,7 @@ This video will help you to follow the guidelines and principles use by google t
    d) Apply only to entry-level positions, regardless of the job description
 
 **Google resume**
+
 5. What are the general tips for writing a resume for Google?
    a) Use a creative and eye-catching format.
    b) Keep the format simple and consistent, use black ink, and include your contact information.
