@@ -51,23 +51,21 @@ This video will help you to follow the guidelines and principles use by google t
    d) Receiving internal company awards or promotions
 
 4. According to the article, what is suggested for candidates who lack experience in the specific field they're applying to?
-a) Inflate their experience by exaggerating their roles in projects
-b) Focus solely on academic achievements and coursework
-c) Highlight transferable skills from impressive experiences in other fields
-d) Apply only to entry-level positions, regardless of the job description
+   a) Inflate their experience by exaggerating their roles in projects
+   b) Focus solely on academic achievements and coursework
+   c) Highlight transferable skills from impressive experiences in other fields
+   d) Apply only to entry-level positions, regardless of the job description
 
 **Google resume**
 5. What are the general tips for writing a resume for Google?
-
-a) Use a creative and eye-catching format.
-b) Keep the format simple and consistent, use black ink, and include your contact information.
-c) Use a lot of technical jargon and buzzwords.
+   a) Use a creative and eye-catching format.
+   b) Keep the format simple and consistent, use black ink, and include your contact information.
+   c) Use a lot of technical jargon and buzzwords.
 
 6. What are some tailored resume recommendations for business and engineering and technical roles?
-
-a) Use a lot of action verbs.
-b) Quantify your achievements.
-c) Highlight your technical skills.
-d) All of the above
+   a) Use a lot of action verbs.
+   b) Quantify your achievements.
+   c) Highlight your technical skills.
+   d) All of the above
 
 [Link to the form](https://docs.google.com/forms/d/e/1FAIpQLSevZ93Mg5sUgEMzL2N1hpV8Bgsv_fQkF4MjwUqWwIse8oi-Ig/viewform)
