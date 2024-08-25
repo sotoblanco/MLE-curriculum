@@ -28,7 +28,7 @@ This video will help you to follow the guidelines and principles use by google t
 
 [Create your resume for google](https://www.youtube.com/watch?v=BYUy1yvjHxE)
 
-Homework
+## Homework
 
 **Chip Huyen blog**
 
